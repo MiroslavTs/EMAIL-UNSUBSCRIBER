@@ -1,0 +1,9 @@
+If you want to run it put your emauil and password in the .env fyle 
+for a password you should got to google chrome select your prfile and write in the search bar 
+app password and make a new password, then copy it and paste it in the PASSWORD="", after that 
+if you dont have the needed librarys download the using pip, if youu dont have python installed, installed it
+and also install VISUAL STUDIO CODE, after everything is set up start the project from the terminal
+using this command "python .\main.py". If you wnat to change the date from which the program start just change the value
+in 'days_back' i made it to scrape from the last 10 day, but you can choose whatevere time period
+you want, just so you know if its a big time period it may take a few minutes to scrape all the data.
+Thats all thank you!
